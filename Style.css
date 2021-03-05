@@ -1,0 +1,39 @@
+body {
+    background-image: url("https://sdk.bitmoji.com/render/panel/8b289f59-575a-431f-bdd8-1940506abc14-54b01945-3fc9-4683-b54d-1bed63a89c22-v1.png?transparent=1&palette=1");
+    background-size: cover;
+    color: cyan;
+    height: 200px
+}
+
+h1 {
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px purple;
+    text-align: center
+
+}
+
+.links {
+    display: inline;
+    font-size: 36px;
+    color: cyan;
+    font-family: Merienda;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px purple;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+.links:hover{
+    font-size: 40px;
+    text-decoration: underline;
+}
+.profile{
+    border-radius:50%;
+
+}
+.parallax-inner{
+    text-align: center;
+        vertical-align: middle;
+}
+#name{
+    font-family: Crimson Pro;
+        font-size: 50px;
+}
